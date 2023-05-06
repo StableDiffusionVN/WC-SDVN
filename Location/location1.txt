@@ -1,0 +1,9 @@
+Supermarket
+Store
+coffee shop
+villa
+kitchen
+living room
+classroom
+laundromat
+swimming pool
