@@ -1,0 +1,23 @@
+Hoodie
+Coat
+Jacket
+Sweater
+Suit
+Blouse
+Cardigan
+Halter Top
+Turtleneck
+Bodysuit
+Camisole
+Bralette
+Tunic
+Tank top
+Button-up
+Henley
+Peplum
+Halter top
+Kimono
+graphic t-shirt
+
+
+

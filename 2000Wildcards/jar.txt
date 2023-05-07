@@ -1,0 +1,16 @@
+Amphora
+Bottle
+Canister
+Carafe
+Censer
+Chalice
+Crucible
+Decanter
+Ewer
+Flask
+Goblet
+Jug
+Pitcher
+Urn
+Vase
+Vial

@@ -1,0 +1,20 @@
+Wood
+Engineered Wood
+Bamboo
+Concrete
+Brick
+Glass
+Ceramics
+Steel
+Carbon Fiber
+Copper
+Aluminum
+Plastic
+Foam
+Plaster
+Stone
+Dimension Stone
+Fabric
+Paper
+Minerals
+Fibers

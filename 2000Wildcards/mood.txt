@@ -1,0 +1,7 @@
+happy
+annoyed
+bored
+sad
+thinking
+surprised
+shocked

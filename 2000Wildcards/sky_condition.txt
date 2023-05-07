@@ -1,0 +1,16 @@
+Bright
+Clear
+Drizzly
+Foggy
+Hazy
+Icy
+Misty
+Mostly Cloudy
+Overcast
+Partly Cloudy
+Rainy
+Smoggy
+Snowy
+Stormy
+Sunny
+Thundery

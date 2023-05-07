@@ -1,0 +1,21 @@
+Ambient lighting
+Artificial lighting
+Back Light
+Bright Light
+Diffuse lighting
+Dim Light
+Directional lighting
+Fill Light
+Flat Light
+Hard Light
+High Light
+Key Light
+Low Light
+Natural lighting
+Reflected lighting
+Rim Light
+Side Light
+Soft Light
+Specular lighting
+Three point lighting
+Top Light

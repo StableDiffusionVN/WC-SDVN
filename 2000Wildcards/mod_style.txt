@@ -1,0 +1,13 @@
+antique
+classic
+contemporary
+cutting-edge
+historical
+innovative
+modern
+old-fashioned
+retro
+sleek
+stylish
+timeless
+traditional

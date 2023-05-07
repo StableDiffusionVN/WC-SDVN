@@ -1,0 +1,41 @@
+bold
+short black hair
+short blond hair
+short auburn hair
+short brown hair
+short gray hair
+long black hair
+long blond hair
+long auburn hair
+long brown hair
+long gray hair
+long wavy black hair
+long wavy blond hair
+long wavy auburn hair
+long wavy brown hair
+long wavy gray hair
+black undercut
+blond undercut
+auburn undercut
+brown undercut
+gray undercut
+long curly black hair
+long curly blond hair
+long curly auburn hair
+long curly brown hair
+long curly gray hair
+black buzzcut
+blond buzzcut
+auburn buzzcut
+brown buzzcut
+gray buzzcut
+black dreadlocks
+blond dreadlocks
+auburn dreadlocks
+brown dreadlocks
+gray dreadlocks
+black braids
+blond braids
+auburn braids
+brown braids
+gray braids

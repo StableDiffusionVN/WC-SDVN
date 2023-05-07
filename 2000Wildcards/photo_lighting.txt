@@ -1,0 +1,11 @@
+Continuous Lighting
+Flash Lighting
+Hard Lighting
+Natural Lighting
+Off-Camera Flash Lighting
+On-Camera Flash Lighting
+Soft Lighting
+Softbox Lighting
+Strobe Lighting
+Studio Lighting
+Umbrella Lighting

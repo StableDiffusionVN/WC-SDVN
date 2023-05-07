@@ -1,0 +1,6 @@
+outdoors
+outdoors, city
+garden
+outdoors, park
+rooftop
+beach

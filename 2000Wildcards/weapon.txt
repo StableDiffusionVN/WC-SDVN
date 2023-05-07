@@ -1,0 +1,46 @@
+Axe
+Battle stave
+Blow dart
+Blowgun
+Blowpipe
+Bomb
+Boomerang
+Bow
+Bow and arrow
+Caltrops
+Club
+Crossbow
+Dagger
+Explosive device
+Firearm
+Flail
+Flamethrower
+Gladius
+Grenade
+Grenade launcher
+Halberd
+Hammer
+Jian
+Katana
+Knife
+Landmine
+Mace
+Machine gun
+Macuahuitl
+Pistol
+Poison dart
+Polearm
+Rifle
+Rocket launcher
+Scimitar
+Shield
+Shotgun
+Shuriken
+Slingshot
+Sniper rifle
+Spear
+Sword
+War hammer
+War scythe
+Warglaive
+Whip

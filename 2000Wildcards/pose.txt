@@ -1,0 +1,17 @@
+standing
+kneeling
+sitting
+squatting
+lying down
+crouching
+dynamic_pose
+heroic pose
+proud pose
+flexing
+jojo pose
+top-down_bottom-up 
+bending over
+onna zuwari
+女の子座り
+wariza
+wariza sitting on knees

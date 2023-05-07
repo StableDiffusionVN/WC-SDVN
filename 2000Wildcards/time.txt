@@ -1,0 +1,6 @@
+day
+night
+dusk
+evening
+dusk
+sunrise

@@ -1,0 +1,124 @@
+cosmic
+simple
+classroom
+jungle
+forest
+space
+city
+lake
+ocean
+beach
+ship
+gradient
+office
+factory
+roman city
+medieval village
+fantasy city
+cyberpunk city
+war
+fire
+kitchen
+bathroom
+bedroom
+dungeon
+prison
+valley
+field of flowers
+field of wheat
+Alphonse Mucha
+swimming pool
+mountain
+desert
+vatican city
+jewish temple
+colosseum
+space station
+lunar base
+cave
+slums
+sunset
+infernal palace
+frozen lakeside
+winter
+bouncy castle
+chicken coop
+hen house
+autumn
+fall
+summer
+spring
+airport
+barn
+farm
+library
+haunted library
+camp
+capitol building
+corn maze
+night sky
+moon
+gothic
+alleyway
+court
+ramen shop
+pagoda
+wrestling ring
+mushroom forest
+aqua background
+beige background
+black background
+blue background
+brown background
+green background
+grey background
+lavender background
+orange background
+pink background
+purple background
+red background
+sepia background
+tan background
+white background
+yellow background
+gradient background
+multicolored background
+rainbow background
+heaven condition
+two-tone background
+argyle background
+checkered background
+food-themed background
+halftone background
+honeycomb background
+paw print background
+plaid background
+polka dot background
+simple background
+snowflake background
+spiral background
+strawberry background
+striped background
+sunburst background
+background text
+backlighting
+blending
+blurry background
+card background
+chibi inset
+drama layer
+fiery background
+flag background
+floral background
+fruit background
+heart background
+imageboard colors
+lace background
+mosaic background
+paneled background
+photo background
+projected inset
+simple background
+starry background
+transparent background
+zoom layer

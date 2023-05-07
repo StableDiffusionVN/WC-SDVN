@@ -1,0 +1,17 @@
+Porcelain
+Bone China
+Earthenware
+Stoneware
+Glass Ceramics
+Fired Bricks
+Carbon
+Silicon
+Silicon Carbide
+Titanium Carbide
+Tungsten Carbide
+Barium Titanate
+Boron Carbide
+Bioceramic
+Ceramic Matrix Composites
+Ceramic Foam
+Ferrite

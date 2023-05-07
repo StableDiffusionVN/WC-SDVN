@@ -1,0 +1,1944 @@
+mammal
+canid
+canine
+felid
+canis
+pokemon (species)
+equid
+equine
+scalie
+humanoid
+feline
+human
+fox
+dragon
+domestic dog
+wolf
+felis
+lagomorph
+domestic cat
+reptile
+leporid
+rabbit
+horse
+pantherine
+avian
+bovid
+animal humanoid
+hybrid
+pony
+generation 1 pokemon
+rodent
+unicorn
+marine
+ursid
+bird
+mammal humanoid
+generation 4 pokemon
+caprine
+demon
+tiger
+pegasus
+earth pony
+generation 3 pokemon
+fish
+cervid
+alien
+arthropod
+murid
+generation 2 pokemon
+murine
+mustelid
+bovine
+lion
+robot
+generation 5 pokemon
+digimon (species)
+eeveelution
+generation 6 pokemon
+winged unicorn
+legendary pokemon
+spitz
+lizard
+chiropteran
+shark
+eulipotyphlan
+goat
+snake
+felid humanoid
+mouse
+hedgehog
+marsupial
+procyonid
+nordic sled dog
+raccoon
+sciurid
+generation 7 pokemon
+cattle
+monster
+hyaenid
+feline humanoid
+dinosaur
+insect
+western dragon
+husky
+were
+cat humanoid
+pastoral dog
+herding dog
+canid humanoid
+werecanid
+mythological avian
+lutrine
+canine humanoid
+elemental creature
+musteline
+mephitid
+lucario
+crocodilian
+skunk
+renamon
+sheep
+rat
+suina
+furred dragon
+ailurid
+werecanine
+animatronic
+red panda
+fennec
+werewolf
+gryphon
+ursine
+flora fauna
+primate
+suid
+generation 8 pokemon
+sus (pig)
+boss monster
+raccoon dog
+spotted hyena
+tanuki
+tree squirrel
+unknown species
+giant panda
+red fox
+elf
+jackal
+amphibian
+lynx
+cheetah
+kobold
+hunting dog
+snow leopard
+mollusk
+theropod
+spirit
+macropod
+leopard
+koopa
+gardevoir
+pikachu
+true musteline
+horned humanoid
+goo creature
+galliform
+shiny pokemon
+phasianid
+taur
+kangaroo
+fox humanoid
+marine humanoid
+german shepherd
+animate inanimate
+haplorhine
+zebra
+passerine
+oscine
+undead
+ghost
+capreoline
+umbreon
+toy dog
+polar bear
+canid demon
+changeling
+cephalopod
+cetacean
+crocodylid
+eevee
+hellhound
+crocodile
+imp
+mustela
+gallus (genus)
+chicken
+sergal
+alien humanoid
+coyote
+toothed whale
+deity
+delphinoid
+eastern dragon
+pinscher
+braixen
+dobermann
+shih tzu
+alligatorid
+domestic pig
+arachnid
+experiment (lilo and stitch)
+alligator
+corvid
+wild boar
+lopunny
+draconcopode
+sheepdog
+accipitriform
+monkey
+sylveon
+reindeer
+charizard
+vaporeon
+lepidopteran
+zoroark
+ground squirrel
+bird dog
+owl
+antelope
+chipmunk
+mega evolution
+cyborg
+glaceon
+yordle
+mammal taur
+regional form (pokemon)
+android
+mollusk humanoid
+domestic sheep
+bovid humanoid
+asinus
+cephalopod humanoid
+donkey
+dromaeosaurid
+bandicoot
+molosser
+accipitrid
+frog
+anubian jackal
+badger
+lagomorph humanoid
+chimera
+wingless dragon
+spider
+hymenopteran
+oceanic dolphin
+dalmatian
+arcanine
+goblin
+bat pony
+collie
+orca
+cougar
+arctic fox
+ambiguous species
+anseriform
+anatid
+blaziken
+giraffid
+shiba inu
+leporid humanoid
+rabbit humanoid
+machairodontine
+lycanroc
+demon humanoid
+retriever
+monotreme
+turtle
+dragon humanoid
+lugia
+zangoose
+orc
+cervine
+yokai
+worgen
+wyvern
+bovine humanoid
+espeon
+duck
+didelphid
+proboscidean
+domestic ferret
+corvus (genus)
+elemental humanoid
+giraffe
+elephantid
+hylian
+naga
+echidna
+raichu
+goodra
+inkling
+robot humanoid
+vampire
+animated skeleton
+cobra
+typhlosion
+elephant
+rhinocerotoid
+twili
+food creature
+border collie
+pinniped
+yoshi
+eagle
+leafeon
+fairy
+mastiff
+lombax
+ape
+wolf humanoid
+cattle humanoid
+arthropod humanoid
+jolteon
+cinderace
+tyrannosaurid
+flareon
+scalie humanoid
+angel
+tyrannosaurus
+velociraptor
+bee
+fish humanoid
+merfolk
+argonian
+minotaur
+absol
+gazelle
+alolan form
+winged humanoid
+midnight lycanroc
+mewtwo
+tyrannosaurus rex
+feathered dragon
+living machine
+keidran
+khajiit
+riolu
+humanoid taur
+waddling head
+crow
+guilmon
+butterfly
+incineroar
+pandaren
+brown bear
+delphox
+plant humanoid
+equid taur
+protogen
+welsh corgi
+striped hyena
+african wild dog
+coleoid
+dog humanoid
+vulpix
+chameleon
+moth
+lamia
+herpestid
+salamander (amphibian)
+tauren
+draenei
+draconequus
+gastropod
+maned wolf
+strepsirrhine
+lemur
+mew
+latias
+rodent humanoid
+greninja
+ornithischian
+golden retriever
+sangheili
+centaur
+rito
+jaguar
+salazzle
+sighthound
+flying wyvern
+tentacle monster
+calico cat
+siamese
+luxray
+camelid
+penguin
+aquatic dragon
+hare
+living inflatable
+poodle
+gulonine
+beaver
+generation 9 pokemon
+mink
+parrot
+avian humanoid
+charr
+living vehicle
+quilava
+monstrous humanoid
+snivy
+zombie
+gorilla
+xenarthran
+tem
+virginia opossum
+ninetales
+gatomon
+kaiju
+octarian
+genie
+kirlia
+charmander
+gengar
+turian
+mienshao
+dingo
+jay (bird)
+xenomorph
+night fury
+new world jay
+octoling
+cricetid
+zorua
+labrador
+serperior
+buizel
+miqo'te
+zeraora
+blue jay
+floatzel
+crustacean
+living aircraft
+gargoyle
+charmeleon
+grizzly bear
+weavile
+hamster
+scorbunny
+hisuian form
+equid humanoid
+rottweiler
+reptile humanoid
+octopodiform
+satyr
+hippopotamid
+mightyena
+darkner
+mountain dog
+beetle
+reshiram
+fennekin
+terrier
+mineral fauna
+gecko
+impmon
+spaniel
+scent hound
+caprine demon
+arachnid humanoid
+mythological firebird
+oryctolagus
+jackalope
+cyclops
+night elf
+domestic rabbit
+ceratopsian
+kirin
+oni
+insect humanoid
+garchomp
+shaymin
+common hippopotamus
+nidoqueen
+ambient arthropod
+dragonite
+equine humanoid
+living plushie
+falconid
+dasyuromorph
+draft horse
+falcon
+harpy
+elder dragon
+primarina
+fossil pokémon
+meowstic
+shinx
+ampharos
+alaskan malamute
+serval
+flygon
+audino
+flamedramon
+echinoderm
+hairless cat
+triceratops
+spider humanoid
+houndoom
+hippogriff
+latios
+burmecian
+deathclaw
+sea eagle
+pantherine humanoid
+veemon
+feraligatr
+avali
+green yoshi
+peafowl
+goat demon
+caprine humanoid
+object head
+bald eagle
+blood elf
+mawile
+sprigatito
+mongoose
+machoke
+phoenix
+malacostracan
+sphynx (cat)
+zora
+malo
+samurott
+vombatiform
+slug
+flower creature
+marten
+pichu
+duel monster
+alolan vulpix
+gnoll
+saluki
+ambient insect
+furret
+columbid
+requiem shark
+wolfdog
+raven
+inteleon
+goo humanoid
+succubus
+australian shepherd
+feathered dinosaur
+cnidarian
+meowth
+leopardus
+bulbasaur
+symbiote
+sky forme shaymin
+ultra beast
+akita
+basitin
+ring-tailed lemur
+viverrid
+pilosan
+stoat
+lynian
+great dane
+meerkat
+sciurid humanoid
+felyne
+decapoda
+murid humanoid
+decapodiform
+murine humanoid
+digital creature
+caracal (genus)
+arctic wolf
+dewott
+dragonair
+alpaca
+asterozoan
+striped skunk
+starfish
+nidoking
+fanged wyvern
+true parrot
+lari
+caracal
+midday lycanroc
+koala
+chinchillid
+porcupine
+squirrel humanoid
+noivern
+holstein friesian cattle
+troll
+black bear
+viper
+yveltal
+scolipede
+mega lopunny
+pomeranian
+moose
+chinchilla
+ocelot
+ambient sealife
+phalangeriform
+seal
+mole salamander
+skaven
+scrafty
+narehate
+tiger shark
+canid taur
+tabby cat
+litten
+mythological sphinx
+sauropod
+piranha plant
+crab
+cape buffalo
+hydra
+pit bull
+red deer
+mouse humanoid
+wolverine
+tenno
+kaka (blazblue)
+boo (mario)
+eldritch abomination
+canine taur
+owl demon
+foo dog
+ambient bird
+suicune
+vulture
+hirundinid
+milotic
+beagle
+white-tailed deer
+grovyle
+moogle
+felkin
+monitor lizard
+nargacuga
+species request
+nimbat
+armadillo
+vulpera
+emolga
+swallow (bird)
+totodile
+felid taur
+sneasel
+living fruit
+pteropodid
+jirachi
+swiss mountain dog
+axolotl
+growlithe
+lapras
+gabumon
+fungi fauna
+clouded leopard
+inkblot
+koopa troopa
+cerberus
+dipteran
+cocker spaniel
+mega charizard
+poochyena
+asari
+bernese mountain dog
+salandit
+faun (spyro)
+kremling
+ditto (pokémon)
+bull terrier
+chao (sonic)
+iguanid
+hypno (pokémon)
+smeargle
+lamniform
+samoyed
+zebstrika
+sharpclaw
+eurasian red squirrel
+mudkip
+galarian form
+living clothing
+mantis
+hatterene
+decidueye
+chespin
+giratina
+wereeulipotyphlan
+werehog
+chocobo
+leomon
+llama
+red wolf
+synth (vader-san)
+thylacine
+tree squirrel humanoid
+arbok
+krogan
+wallaby
+squirtle
+guardian spirit
+miltank
+pachirisu
+liger
+larid
+exveemon
+asura
+wasp
+meloetta
+snake humanoid
+tiger humanoid
+mega lucario
+worm
+python
+gerudo
+elateroid
+true owl
+au ra
+firefly
+gull
+inanimate object
+rockruff
+grazing antelope
+pit viper
+komodo dragon
+red pandaren
+mixed breed
+yinglet
+lizardman
+pigeon
+troll (homestuck)
+aggron
+cypriniform
+gallade
+dipodid
+sceptile
+fire creature
+pheromosa
+komainu
+shyguy
+jerboa
+cyprinid
+rath wyvern
+ant
+angel humanoid
+myriapod
+yautja
+turkey
+minkmen (one piece)
+patamon
+obstagoon
+zekrom
+neopet (species)
+nidorina
+clydesdale
+swampert
+bird humanoid
+walrus
+animal head
+siberian husky
+leviathan (mh)
+pokemon humanoid
+oryx
+dragonborn (dnd)
+mega absol
+sandslash
+viper (x-com)
+cybertronian
+blastoise
+snail
+bayleef
+bubo (genus)
+vessel (species)
+oshawott
+snorlax
+breegull
+alolan ninetales
+dark elf
+rattlesnake
+food humanoid
+nekomata
+tyranitar
+mismagius
+quarian
+lop rabbit
+mole (animal)
+anserinae
+kong
+pterosaur
+minun
+weregarurumon
+mimiga
+plusle
+urocyon
+machamp
+palico
+sableye
+banette
+infernape
+toad (mario)
+ogre
+cockatoo
+luxio
+toxtricity
+dasyurid
+flaaffy
+arthropod taur
+fox taur
+wooloo
+newt
+torracat
+sheep humanoid
+gammamon
+wildcat
+seviper
+gomamon
+borzoi
+wartortle
+arceus
+american black bear
+goomba
+dusk lycanroc
+raboot
+shadow pokémon
+victini
+toucan
+old world vulture
+cervid taur
+x-digimon
+bobcat
+roserade
+shark humanoid
+brionne
+cattledog
+haunter
+wendigo
+viera
+agumon
+living doll
+aardwolf
+ivysaur
+majin
+whimsicott
+australian cattle dog
+pangoro
+grey fox
+secretary bird
+mega charizard x
+jigglypuff
+anteater
+minccino
+birdo
+medusozoan
+sloth
+meloetta (aria form)
+gem (species)
+basset hound
+micro organism (organism)
+flesh creature
+pine marten
+mimikyu
+parakeet
+true antelope
+kig-yar
+hisuian typhlosion
+caviid
+diamond dog (mlp)
+chakat
+rapidash
+hisuian zoroark
+lamnid
+sobble
+light fury
+kecleon
+penis creature
+treecko
+chua
+cell (organism)
+celebi
+anthozoan
+shadow lugia
+microchiropteran
+toad (frog)
+skitty
+arachnid taur
+zinogre
+genet
+hrothgar
+procyonid humanoid
+goat humanoid
+cubone
+chihuahua
+witch (the owl house)
+jellyfish
+philippine eagle
+angoramon
+raccoon humanoid
+mega gardevoir
+bird wyvern
+euplerid
+wargreymon
+creeper (minecraft)
+hadrosaurid
+tsareena
+cervid humanoid
+ralts
+popplio
+lizard humanoid
+chesnaught
+aardvark
+river otter
+cyndaquil
+yangochiropteran
+chikorita
+yak
+annelid
+agamid
+rayquaza
+dorumon
+rough collie
+rock creature
+furfrou
+alolan meowth
+maine coon
+afrosoricid
+carp
+darkrai
+terriermon
+larvitar
+tenrec
+primate humanoid
+neotropical parrot
+eel
+honey badger
+dragonfly
+alolan raichu
+enderman
+diplodocid
+muk
+platypus
+hydreigon
+piplup
+avian (starbound)
+equine taur
+rillaboom
+ursaring
+sparkledog
+flower humanoid
+rotom
+rathalos
+prionailurus
+old world monkey
+martian
+snowy owl
+liepard
+ambient butterfly
+taomon
+togruta
+lilligant
+cavalier king charles spaniel
+gaomon
+flamingo
+emboar
+boa (snake)
+spider taur
+shadow siren
+leopard cat
+phyllostomid
+ecaflip
+bison
+irken
+mudsdale
+typical carp
+rainicorn
+amur carp
+lurantis
+koi
+articuno
+living candy
+syngnathiform
+koopa humanoid
+persian (pokémon)
+werefox
+syngnathid
+linoone
+buneary
+macaw
+pancham
+dire wolf
+mega charizard y
+pangolin
+nickit
+ho-oh
+elk
+hymenopteran humanoid
+magpie (corvid)
+tailed beast
+nergigante
+boinae
+okapi
+venusaur
+pelecaniform
+zebroid
+caninu
+alpha pokémon
+aquatic gastropod
+angel dragon
+tanuki humanoid
+seahorse
+gorgon
+groudon
+thyreophoran
+froslass
+puwa
+felineko
+twi'lek
+caitian
+palkia
+ottsel
+fossa
+bow experiment (resident evil)
+living piñata
+dwarf
+purrloin
+zacian
+lepidopteran humanoid
+tasmanian devil
+small molosser
+faun
+saint bernard
+amphibian humanoid
+amped toxtricity
+brute wyvern
+sea slug
+tarantula
+mygalomorph
+mizutsune
+monkey humanoid
+scorpion
+pidgeot
+civet
+dialga
+utahraptor
+ursid humanoid
+mesprit
+fungi humanoid
+blin (tloz)
+carpet shark
+salamence
+solgaleo
+bulldog
+ambient firefly
+mimic
+blattodea
+parasaurolophus
+domestic goat
+urshifu
+cocotama
+batoid
+king cheetah
+chain chomp
+black-backed jackal
+horse humanoid
+gruiform
+keldeo
+leavanny
+growlmon
+deerling
+rhydon
+jackal humanoid
+chimpanzee
+betelgeusian
+nidoran
+coral
+beedrill
+octopus
+kangaskhan
+great white shark
+meganium
+sandshrew
+rowlet
+prime (las lindas)
+cockroach
+livestock guardian dog
+silvally
+true eagle
+crane (bird)
+delcatty
+werefelid
+ratite
+swan
+grookey
+torchic
+ambient fish
+gazimon
+siren
+servine
+vampire bat
+tiefling
+tepig
+zeti
+capybara
+lalafell
+altered forme giratina
+mienfoo
+espurr
+land forme shaymin
+golden eagle
+gourgeist
+kyogre
+spinda
+allosaurid
+bearded vulture
+houndour
+slowpoke
+tabaxi
+skink
+zigzagoon
+lion humanoid
+rito humanoid
+aircraft humanoid
+gothitelle
+catfish
+froakie
+alcid
+maractus
+zubat
+cacomistle
+seedrian
+bighorn sheep
+mythological carbuncle
+gastly
+sneasler
+mustelid humanoid
+mineral humanoid
+tytonid
+masked owl
+abyssal wolf
+manticore
+moon bear
+ender dragon
+indominus rex
+biyomon
+low key toxtricity
+gargomon
+tatzlpony
+tarunah
+saiyan
+rabbid
+shadow creature
+tyrantrum
+symbareangoramon
+space dragon (metroid)
+mythological golem
+sphere creature
+hisuian zorua
+hoopa
+floran
+whale shark
+medicham
+gigantamax pokemon
+florges
+joltik
+manectric
+puffin
+bangaa
+cucujoid
+zerg
+warthog
+dipodomyine
+faraden
+heteromyid
+colubrid
+moth humanoid
+cardinal (bird)
+dullahan
+ventrexian
+breloom
+omnic
+diglett
+barn owl
+ladybug
+marshtomp
+scyther
+robin (bird)
+girafarig
+dwarf rabbit
+lampropeltini
+magikarp
+furred kobold
+beta pokémon (species)
+chiropteran humanoid
+marowak
+true buffalo
+crux
+allosaurus
+bee humanoid
+purugly
+xerneas
+blue yoshi
+new world monkey
+smilodon
+zonkey
+rathian
+hairless dog
+glameow
+camel
+dragon taur
+mythological canine
+spinosaurid
+dire machine
+galarian ponyta
+mule deer
+cinccino
+mythological fox
+fruit humanoid
+lunala
+cryptid
+nihallaks (species)
+dryad
+stand (jjba)
+koraidon
+gremlin (spiral knights)
+frog humanoid
+thrush (bird)
+finch
+ekans
+virizion
+cuculiform
+behemoth (ff)
+common ferret
+mega ampharos
+stegosaurian
+eggerlander
+kweltikwan
+mega mewtwo
+alcremie
+tentacruel
+tobi-kadachi
+red kangaroo
+croconaw
+murkrow
+water buffalo
+jakkai
+goose
+kulve taroth
+abra
+butterfree
+dire vehicle
+canadian lynx
+origin forme giratina
+tailed humanoid
+cecaelia
+gnome
+laquine
+dhole
+jack russell terrier
+tortoise
+scizor
+least weasel
+pooka
+ctarl-ctarl
+roswell grey
+rat snake
+pteranodontid
+dodo
+water creature
+mega banette
+night stalker (fallout)
+bovid taur
+rubber creature
+roselia
+beast (bloodborne)
+wigglytuff
+swatchling
+drowzee
+mithra
+pink yoshi
+shoutmon
+water deer
+ambient crustacean
+lamarian
+anaconda
+magnemite
+nevrean
+manta ray
+roadrunner
+ruuhtian (kig-yar)
+new world ground cuckoo
+blackwargreymon
+slugcat (rain world)
+corn snake
+cockatiel
+ambient bat
+pteranodon
+citra
+deinonychus
+air creature
+ring-tailed cat
+uxie
+mega mewtwo y
+picid
+eublepharid
+lepi
+petaurid
+gabite
+krokorok
+tigrex
+canyne
+palamute
+bamfear
+serrasalmid
+faunus
+piranha (fish)
+haxorus
+heliolisk
+crowned sword zacian
+iradeon
+patchwork creature
+ground shark
+goldfish
+stegosaurus
+orthopterid
+afghan hound
+corsac fox
+palmon
+cherub
+musteline humanoid
+peregrine falcon
+flying squirrel
+sugar glider
+tailclops (species)
+drizzile
+highland cattle
+osprey
+skuntank
+woodpecker
+moltres
+kangaroo rat
+kaisura
+azumarill
+primatius
+brown hyena
+spiral-horned antelope
+bluebird
+misdreavus
+manaphy
+empoleon
+toa
+alakazam
+jou
+yuman
+tuxedo cat
+metroid (species)
+dove
+psyduck
+keldeo (ordinary form)
+dorukolorukalai
+hobkin
+cervine taur
+elin
+weredog
+caterpie
+sawsbuck
+pignite
+nu mou
+monodontid
+nanger
+elkhound
+feathered snake
+blue macaw
+spotted skunk
+dratini
+tengu
+stingray
+bokoblin
+imp (doom)
+steenee
+shrimp
+tremarctine
+azelf
+sea serpent
+timberwolf (mlp)
+kappa
+iksar
+spectacled bear
+spinosaurus
+tibetan mountain dog
+sea lion
+heartless
+mareep
+mammoth
+pterodactylus
+highmountain tauren
+quoll
+magikoopa
+dire aircraft
+frilled lizard
+zamazenta
+mega mawile
+nymph
+tetramand
+t-virus mutant (resident evil)
+single strike style urshifu
+passimian
+oddish
+sunflower (pvz)
+drow
+draph
+mimic chest
+sea monster
+orc (dragon quest)
+kommo-o
+nidoran♂
+dormouse
+togekiss
+zapdos
+assaultron (fallout)
+catfolk
+hummingbird
+grant's gazelle
+sun bear
+machop
+hylotl
+jynx
+dilophosaurid
+rexouium
+dachshund
+acrador
+leviathan
+betelgammamon
+litwick
+elapid (snake)
+kadabra
+dilophosaurus
+lizardman (overlord)
+russian blue
+tauros
+pronghorn
+nightwing (wof)
+hisuian growlithe
+clefairy
+ponyta
+living sex doll
+lagiacrus
+krookodile
+miraidon
+coati
+sumatran rhinoceros
+gyarados
+apatosaurus
+kumiho
+keronian
+nidoran♀
+cnidarian humanoid
+nokuri
+jellymon
+crystal pony (mlp)
+dedenne
+gulusgammamon
+octopus humanoid
+pixie
+mustela humanoid
+mushroom humanoid
+entei
+gem creature
+dracony
+t'vaoan
+ara (genus)
+yeti
+pug
+ronso
+salmonid (fish)
+aurorus
+pantherine taur
+screen head
+chinese crested dog
+golden jackal
+living weapon
+serval humanoid
+indeedee
+ragdoll cat
+chow chow
+numbat
+squid humanoid
+gliscor
+greymon
+elemental dragon
+hitmonchan
+silver dragon
+tapir
+lickitung
+droid
+cyan yoshi
+pidgey
+hawlucha
+chimchar
+corviknight
+stunky
+xenomorph queen
+mega blaziken
+deku (tloz)
+dusknoir
+cresselia
+pure faraden
+centipede
+goomy
+delibird
+margay
+stoat humanoid
+living cloud
+eliksni
+dabbling duck
+deoxys
+facehugger
+exceed
+unown (pokémon)
+sand cat
+marshadow
+leopard gecko
+boston terrier
+sea otter
+bob-omb
+jogauni
+unigan
+reformed changeling
+kermode bear
+gungan
+lizardman (warhammer fantasy)
+kyurem
+three-toed sloth
+shellder
+pyroar
+frieza race
+dutch rabbit
+shrew
+nidorino
+muppet
+anglerfish
+electrike
+yamper
+baron of hell
+teddiursa
+ostrich
+lopmon
+cacturne
+egyptian vulture
+dragon pony
+werefeline
+excadrill
+diancie
+synx
+holarctic magpie
+octillery
+anas
+displacer beast
+pikmin (species)
+helioptile
+lightforged draenei
+mega swampert
+plorgonarian
+weedle
+bellossom
+hammerhead shark
+pumpkaboo
+slowbro
+carcharhinus
+volcarona
+sea sponge
+glaive wyvern
+lizard (divinity)
+werepantherine
+guinea pig
+fearow
+scraggy
+dall sheep
+siberian tiger
+mallard
+fuecoco
+natural furfrou
+hakamo-o
+air humanoid
+gogoat
+oozaru
+fish-men (one piece)
+rat humanoid
+setter
+wailord
+flap-necked chameleon
+buteo
+poison dart frog
+barioth
+badnik
+wolf taur
+mule
+archeops
+loch ness monster
+bidoof
+rainwing (wof)
+jiangshi
+xerneas (active mode)
+cockatrice
+bacteria (organism)
+coraciiform
+living toy
+clefable
+sperm whale
+salmonid (splatoon)
+bivalve
+physeteroid
+wooper
+hybrid pokemon
+waddle dee
+vespiquen
+golduck
+cofagrigus
+bellsprout
+kelpie
+salmon
+kukuri
+drekir
+thresher shark
+hammer brothers
+werecat
+peashooter (pvz)
+araneomorph
+fallen angel
+binturong
+noibat
+combusken
+moblin
+leonin
+sparklecat
+victreebel
+deku scrub
+sable (marten)
+fakeveelution
+staraptor
+braviary
+electabuzz
+quaxly
+demigod
+bucerotiform
+hoopa (confined)
+canary
+kyubimon
+lynel
+exo
+chickenhawk
+tangela
+ursine humanoid
+goron
+gumdramon
+seawing (wof)
+devilchild
+icewing (wof)
+abelisaurid
+chuki
+skywing (wof)
+mind flayer
+simipour
+lobster
+wingull
+windragon
+talonflame
+skarmory
+dewgong
+incubator (puella magi)
+heracross
+mantrin
+cherrim
+reploid
+wickerbeast
+dustox
+na'vi
+tangrowth
+amoeba (organism)
+farfetch'd
+japanese kobold
+gyroid
+maggot
+new faraden
+bovine taur
+plant monster
+gieeg
+ambient starfish
+dragon (dnd)
+honchkrow
+carnotaurus
+thestral
+peryton
+treant
+cloud humanoid
+ferrin
+sandwing (wof)
+arachne
+gypsy vanner
+fairy dragon
+chaos daemon
+ice dragon
+bowman's wolf
+enfield
+sparrow
+scarlet macaw
+kishū inu
+spiral knight
+hell knight
+shurian
+marill
+grey squirrel
+living gasm drive
+nuzleaf
+irish setter
+goo dragon
+atelid
+bullet bill
+spring deerling
+gerbil
+bengal tiger
+jex
+beartic
+red-tailed hawk
+stork
+mythological chimera
+deino
+akita inu
+red yoshi
+halfling
+wolpertinger
+vespid
+baby kangaskhan
+bobtail cat
+legiana
+galarian zigzagoon
+mandrill
+atlantic puffin
+bewear
+indoraptor
+quail
+persian cat
+faceless (species)
+american paint horse
+mega audino
+ice creature
+turtwig
+chandelure
+tapu lele
+ribombee
+roe deer
+orangutan
+pidgeotto
+toxicroak
+chansey
+dutch angel dragon
+unicellular organism (organism)
+purple yoshi
+voltorb
+garurumon
+slime (blob)
+cadou host (resident evil)
+poliwrath
+high elf
+keeper of the moon
+croagunk
+vastaya
+murasadramon
+jackson's chameleon
+ankylosaurian
+red arremer
+mexican wolf
+medusozoan humanoid
+jellyfish humanoid
+monferno
+bat-eared fox
+chameleon humanoid
+lilibee
+living melee weapon
+suina humanoid
+faunazon
+swellow
+druddigon
+celesteela
+luma
+fallow deer
+lemurian
+living car
+celestial being
+meller's chameleon
+onix
+meles
+nudibranch
+galarian rapidash
+politoed
+luvdisc
+cyber dragon
+bisharp
+diplodocus
+capricorn
+leech
+set (species)
+baboon
+drifloon
+axew
+kudu
+hornet
+aerodactyl
+nardoragon
+papillon
+unicorn humanoid
+skulldog (species)
+neumono
+flabébé
+zbornak
+long-tailed weasel
+lizardfolk
+earthworm
+gothorita
+schnauzer
+galvantula
+cervine humanoid
+aipom
+appmon (species)
+lanturn
+rapid strike style urshifu
+grimm (rwby)
+dreamspinner
+ouginak
+crobat
+cobalion
+koffing
+emoji (race)
+crowned shield zamazenta
+naked mole-rat
+grumpig
+cockapoo
+reuniclus
+living sword
+brontosaurus
+greyhound
+meloetta (pirouette form)
+porygon-z
+odogaron
+rutmutt
+kokiri
+scarabaeid
+eelektross
+torterra
+chimera ant
+sharpedo
+beauceron
+reef shark
+metapod
+mythological salamander
+blade (xenoblade)
+seismitoad
+procellariiform
+fire salamander (salamander)
+yellow yoshi
+stormcutter
+sunflora
+shokan
+black yoshi
+quagsire
+primal reversion
+angewomon
+rubbercat
+eulipotyphlan humanoid
+tadpole
+lungless salamander
+egyptian mau
+blitzle
+saturniid
+feline taur
+vileplume
+thorny devil
+nezumi (magic: the gathering)
+sasquatch
+hornbill
+togepi
+flammie
+computer virus (species)
+lyrian
+cetacean humanoid
+hitmontop
+gastrodon
+rinrin (pokémon gold beta)
+sunshine form cherrim
+grasshopper
+ibex
+eurasian lynx
+wereursid
+albatross
+suid humanoid
+simisear
+duskull
+mareanie
+tropius
+dragonoid (dark souls)
+staryu
+spring salamander
+cacodemon
+dugtrio
+dra'essa
+tojol
+brachiosaurid
+blackgatomon
+flora
+hitmonlee
+gemsbok
+karelian bear dog
+avian taur
+skunk taur
+moomin
+shar pei
+drider
+nihilego
+pachyderm
+couatl
+lich
+mephitid taur
+orange yoshi
+spider monkey
+divenka
+xatu
+winter sawsbuck
+chatot
+golbat
+heron
+imaginary friend
+dragapult
+skvader
+candy humanoid
+common pigeon
+sliggoo
+ramphastos
+buzzwole
+felin
+jacktor
+parasprite (mlp)
+alolan marowak
+kineceleran
+tetton
+ankylosaurid
+tailclops (race)
+togetic
+alolan exeggutor
+spearow
+rhyperior
+cheetah humanoid
+hereford cattle
+snow creature
+alolan sandslash
+tentacool

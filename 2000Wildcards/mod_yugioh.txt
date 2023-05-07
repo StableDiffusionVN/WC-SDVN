@@ -1,0 +1,22 @@
+Aqua
+Beast
+Beast-Warrior
+Creator God
+Dinosaur
+Diva
+Divine-Beast
+Dragon
+Fiend
+Fish
+Insect
+Machine
+Plant
+Pyro
+Reptile
+Rock
+Sea Serpent
+Spellcaster
+Thunder
+Warrior
+Winged Beast
+Zombie

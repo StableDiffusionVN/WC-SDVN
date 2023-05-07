@@ -1,0 +1,137 @@
+Acetic acid (CH3COOH)
+Actinium
+Aluminum
+Americium
+Ammonia (NH3)
+Antimony
+Argon
+Arsenic
+Astatine
+Barium
+Berkelium
+Beryllium
+Bismuth
+Bohrium
+Boron
+Bromine
+Cadmium
+Calcium
+Calcium carbonate (CaCO3)
+Californium
+Carbon
+Carbon dioxide (CO2)
+Cerium
+Cesium
+Chlorine
+Chromium
+Cobalt
+Copernicium
+Copper
+Curium
+Darmstadtium
+Dubnium
+Dysprosium
+Einsteinium
+Erbium
+Ethanol (C2H5OH)
+Ethylene glycol (C2H6O2)
+Europium
+Fermium
+Flerovium
+Fluorine
+Formic acid (HCOOH)
+Francium
+Gadolinium
+Gallium
+Germanium
+Gold
+Hafnium
+Hassium
+Helium
+Holmium
+Hydrochloric acid (HCl)
+Hydrogen
+Indium
+Iodine
+Iridium
+Iron
+Krypton
+Lanthanum
+Lawrencium
+Lead
+Lithium
+Livermorium
+Lutetium
+Magnesium
+Manganese
+Meitnerium
+Mendelevium
+Mercury
+Methane (CH4)
+Molybdenum
+Moscovium
+Neodymium
+Neon
+Neptunium
+Nickel
+Nihonium
+Niobium
+Nitric acid (HNO3)
+Nitrogen
+Nitrogen (N2)
+Nobelium
+Oganesson
+Osmium
+Oxygen (O2)
+Palladium
+Phosphoric acid (H3PO4)
+Phosphorus
+Platinum
+Plutonium
+Polonium
+Potassium
+Praseodymium
+Promethium
+Propylene glycol (C3H8O2)
+Protactinium
+Radium
+Radon
+Rhenium
+Rhodium
+Roentgenium
+Rubidium
+Ruthenium
+Rutherfordium
+Samarium
+Scandium
+Seaborgium
+Selenium
+Silicon
+Silver
+Sodium
+Sodium chloride (NaCl)
+Sodium hydroxide (NaOH)
+Strontium
+Sucrose (C12H22O11)
+Sulfur
+Sulfuric acid (H2SO4)
+Table salt (NaCl)
+Tantalum
+Technetium
+Tellurium
+Tennessine
+Terbium
+Thallium
+Thorium
+Thulium
+Tin
+Titanium
+Tungsten
+Uranium
+Vanadium
+Water (H2O)
+Xenon
+Ytterbium
+Yttrium
+Zinc
+Zirconium

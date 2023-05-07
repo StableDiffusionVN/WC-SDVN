@@ -1,0 +1,25 @@
+pale blonde hair
+light brown hair
+pink hair
+(pale pink hair:1.3401),
+blue hair
+(dark blue hair:1.79586),
+light blue hair
+(silver blue hair:1.3401),
+(pink blue hair:1.4071), split-color hair,
+(white hair:1.79586),
+purple hair
+green hair
+aqua hair
+red hair
+(yellow hair:1.05),
+(yellow hair:1.62889),
+brown hair
+black hair
+iridescent hair
+gradient hair
+pale blonde hair, (two-tone hair:1.55133)
+(two-tone hair:1.79586)
+(pastel rainbow hair:1.27628),
+(shimmer hair:1.21551), (iridescent silver hair:1.05), (hair \(houseki no kuni\):1.15763),
+(shimmer hair:1.21551), glowing hair, (iridescent silver hair:1.05), (hair \(houseki no kuni\):1.15763),

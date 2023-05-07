@@ -1,0 +1,8 @@
+custom-made
+domestic
+foreign
+handmade
+imported
+industrial
+locally-made
+mass-produced
