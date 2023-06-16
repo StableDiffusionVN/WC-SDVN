@@ -1,4 +1,4 @@
-Handsome men , prince , {1-3$$ masculine | bearded |strong },royal style, { gold | silver | diamond | gemstone } accessories,{under cut hair | low ponytail | short hair},
+{1-3$$ masculine | bearded |strong },royal style, { gold | silver | diamond | gemstone } accessories,{under cut hair | low ponytail | short hair},
 pretty lady, royal style, { gold | silver | diamond | gemstone } accessories, sexy, ({sexy bare back | 3:: }), __*/colors__ {dress | buttoned shirt | denim | bare shoulder shirt }, {braided hair | low ponytail | },(sexy),
 pretty girl,goddess of love, royal style, __*/colors__ dress,(🌈,⭐️,✨),((wind)), sexy, { medium | large } breast, __*/location__
 {long skirt | pencil skirt | pleated skirt | short denim}, { shirt | camisole | denim | jacket | thin shirt | button down shirt },pretty lady , royal style, { gold | silver | diamond | gemstone } accessories,
