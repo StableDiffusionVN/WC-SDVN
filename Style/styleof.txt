@@ -1,3 +1,4 @@
+Edwin Austin Abbey
 Andreas Achenbach
 Norman Ackroyd
 Ansel Adams
@@ -9,6 +10,7 @@ Leonid Afremov
 Petros Afshar
 Ivan Aivazovsky
 David Aja
+Alessio Albi
 Rafael Albuquerque
 Miles Aldridge
 Shahab Alizadeh
@@ -17,6 +19,7 @@ Albrecht Altdorfer
 Yoshitaka Amano
 Tarsila do Amaral
 Cuno Amiet
+Fernando Amorsolo
 Jay Anacleto
 Anna Ancher
 Richard Anderson
@@ -42,9 +45,12 @@ Eug\u00e8ne Atget
 John James Audubon
 Frank Auerbach
 Richard Avedon
+Chris Bachalo
 Anne Bachelier
 Tom Bagshaw
+Alice Bailly
 Karol Bak
+Ralph Bakshi
 Christopher Balaskas
 Emily Balivet
 Peder Balke
@@ -54,6 +60,7 @@ Clive Barker
 Wayne Barlowe
 Ernie Barnes
 Will Barnet
+Angela Barrett
 Paul Barson
 Bo Bartlett
 Casey Baugh
@@ -64,9 +71,13 @@ Beeple
 Zdzislaw Beksinski
 Hans Bellmer
 George Bellows
+Ludwig Bemelmans
+Alexandre Benois
 Earle Bergey
 John Berkey
+Gian Lorenzo Bernini, sculpture
 Elsa Beskow
+James Bidgood
 Szymon Biernacki
 Albert Bierstadt
 John T. Biggers
@@ -77,9 +88,10 @@ Ed Binkley
 Elmer Bischoff
 Simon Bisley
 Robert Bissell
-Mary Blair
+Mary Blair 
 Antoine Blanchard
 John Blanche
+Tim Blandin
 Neil Blevins
 Umberto Boccioni
 Brian Bolland
@@ -89,6 +101,7 @@ Franklin Booth
 Matt Bors
 Hieronymus Bosch
 Sam Bosma
+Ambrosius Bosschaert
 Johfra Bosschart
 Botero
 Sandro Botticelli
@@ -107,8 +120,10 @@ Gerald Brom
 Edward Burne-Jones
 Jim Burns
 Gaston Bussiere
+Arnold B\u00f6cklin
 Francis Cadell
 Paul Cadmus
+Clyde Caldwell
 Fred Calleri
 Charles Camoin
 Colin Campbell Cooper
@@ -116,8 +131,10 @@ Pascal Campion
 Milton Caniff
 Pablo Carpio
 Michael Carson
+Santiago Caruso
 Didier Cassegrain
 Alfred J. Casson
+Paul Catherall
 Clint Cearley
 Agnes Cecile
 Marc Chagall
@@ -143,6 +160,7 @@ Chris Cold
 Charles Conder
 George Condo
 John Constable
+Yvonne Coomber
 Richard Corben
 Paul Corfield
 Jean-Baptiste Camille Corot
@@ -150,23 +168,31 @@ Shawn Coss
 Francesco del Cossa
 Walter Crane
 Guido Crepax
+Gregory Crewdson
 Debbie Criswell
 Njideka Akunyili Crosby
+Henri-Edmond Cross
 Nicolas de Crecy
+John Currin
 Paul Cezanne
 Leonardo da Vinci
 Steven DaLuz
 Pino Daeni
 Louise Dahl-Wolfe
+Farel Dalrymple
+Henry Darger
 Geof Darrow
+Honor\u00e9 Daumier
 Jacques-Louis David
 Jack Davis
 Marc Davis
 Craig Davison
 Jonas De Ro
+Kelly Sue DeConnick
 Michael DeForge
 Edwin Deakin
 Edgar Degas
+Robert Delaunay
 Nicolas Delort, scratchboard illustration
 Jean Delville
 Wim Delvoye
@@ -192,6 +218,7 @@ Chris Dyer
 Albrecht Durer (+ engraving)
 Thomas Eakins
 Eyvind Earle
+Amy Earles
 Jeff Easley
 Tristan Eaton
 Tyler Edlin
@@ -199,29 +226,36 @@ Jason Edmiston
 William Eggleston
 Bob Eggleton
 Will Eisner
+El Greco
 Dean Ellis
+Adam Elsheimer
 Peter Elson
 Gil Elvgren
 Ed Emshwiller
 Kilian Eng
 Delphin Enjolras
 Hans Erni
+Max Ernst
 Ert\u00e9
 M.C. Escher
 Adrianus Eversen
+Glenn Fabry
 Anton Fadeev
 Shepard Fairey
 Andy Fairhurst
 John Philip Falter
+Fang Lijun
 Henri Fantin-Latour
 Duncan Fegredo
 Lyonel Feininger
 Andrew Ferez
+Roberto Ferri
 Hugh Ferriss
 Virgil Finlay
 Anato Finnstark
 Paul Gustav Fischer
 Oskar Fischinger
+Dan Flavin
 Govert Flinck
 Alex Russell Flint
 Piotr Foksowicz
@@ -230,7 +264,9 @@ Eleanor Fortescue Brickdale
 Chris Foss
 Hal Foster
 Jon Foster
+Fra Angelico
 Matt Fraction
+Jean-Honor\u00e9 Fragonard
 Francesco Francavilla
 Piero della Francesca
 Lisa Frank
@@ -241,8 +277,11 @@ Brian Froud
 Ando Fuchs
 Goro Fujita
 Ellen Gallagher
+Stephen Gammell
 Hope Gangloff
 Paul Gauguin
+Jeremy Geddes
+Artemisia Gentileschi
 Edwin Georgi
 Justin Gerard
 Daniel F. Gerhartz
@@ -250,6 +289,7 @@ Atey Ghailan
 Adrian Ghenie
 Domenico Ghirlandaio
 Donato Giancola
+Dave Gibbons
 Charles Dana Gibson
 Ralph Gibson
 HR Giger
@@ -259,6 +299,7 @@ William James Glackens
 Milton Glaser
 Warwick Goble
 Basil Gogos
+Nan Goldin
 Rob Gonsalves
 Josan Gonzalez
 Misha Gordin
@@ -272,15 +313,21 @@ Kate Greenaway
 Martin Grelle
 Alex Grey
 Peter Gric
+Carne Griffiths
 Gris Grimly
 Jordan Grimmer
 John Atkinson Grimshaw
+Alex Gross
 Huang Guangjian
 Rebecca Guay
+Sam Guay
+Armand Guillaumin
+Gr\u00e9goire Guillemin
 Saskia Gutekunst
 Guweiz
 Arthur Hacker
 Ernst Haeckel
+Richard Hamilton
 Erin Hanson
 Tomer Hanuka
 David A. Hardy
@@ -299,6 +346,8 @@ Stephen Hickman
 Utagawa Hiroshige
 Bryan Hitch
 Filip Hodas
+Hokusai
+Ambrosius Holbein
 Hans Holbein
 Winslow Homer
 Frank Hong
@@ -306,19 +355,23 @@ Pieter de Hooch
 Edward Hopper
 Aaron Horkey
 Alex Horley
+Edward Atkinson Hornel
 John Howe
 John Hoyland
 Sebastien Hue
 Adam Hughes
+Edward Robert Hughes
 George Hurrell
 Michael Hutter
 Duy Huynh
 Catherine Hyde
+Hannah H\u00f6ch
 Louis Icart
 Stuart Immonen
 Ismail Inceoglu
 Carmine Infantino
 Robert Ingpen
+Jean-Auguste-Dominique Ingres
 Inoue Takehiko
 Sui Ishida
 Johannes Itten
@@ -333,6 +386,7 @@ Oliver Jeffers
 Ellen Jewett
 Ruan Jia
 Phil Jimenez
+Dorothy Johnstone
 Android Jones
 Jeffrey Catherine Jones
 Loui Jover, ink on newspaper
@@ -364,16 +418,23 @@ Raphael Kirchner
 Tatsuro Kiuchi
 Mati Klarwein
 Jon Klassen
+Paul Klee
 Gustav Klimt
+Hilma af Klint
 Ferdinand Knab
 Nick Knight
+Winifred Knights
 Ayami Kojima
 Oskar Kokoschka
 Kathe Kollwitz
 Satoshi Kon
+Willem de Kooning
+Jeff Koons, sculpture
 Ohara Koson
+Bella Kotak
 Ranganath Krishnamani
 Germaine Krull
+Alfred Kubin
 Maciej Kuciara
 Utagawa Kunisada
 Harvey Kurtzman
@@ -385,7 +446,9 @@ Raphael Lacoste
 Mikko Lagerstedt
 Fitz Henry Lane
 Abigail Larson
+Gary Larson
 Carl Larsson
+Maria Lassnig
 Don Lawrence
 Bastien Lecouffe-Deharme
 Alan Lee
@@ -395,9 +458,11 @@ Paul Lehr
 Jeff Lemire
 Aristarkh Lentulov
 J.C. Leyendecker (+ art nouveau)
+Andr\u00e9 Lhote
 Roy Lichtenstein
 Rob Liefeld
 Richard Lindner
+Liniers, cartoon
 Filippino Lippi
 Laurie Lipton
 Arthur Lismer
@@ -412,26 +477,32 @@ Tom Lovell
 Maximilien Luce
 Margaret MacDonald Mackintosh
 Frances MacDonald McNair
+Elizabeth MacNicol
 Andrew Macara
 August Macke
 Jim Mahfood
 Hans Makart
 Alex Maleew
 Justin Maller
+Milo Manara
 Gregory Manchess
 Slawomir Maniak
 Jeremy Mann
 Stan Manoukian
+Andrea Mantegna
+Aldus Manutius
 Esteban Maroto
 Chris Mars
 John Martin
 Stephan Martiniere
 Frans Masereel
+Brian Mashburn
 Andre Masson
 Henri Matisse
 Rodney Matthews
 David Mattingly
 Dan Matutina
+Mike Mayhew
 Cathleen McAllister
 Robert McCall
 Frank McCarthy
@@ -448,10 +519,12 @@ Ralph Angus McQuarrie
 Ian McQue
 Syd Mead
 Ed Mell
+Hans Memling
 Eddie Mendoza
 Adolph von Menzel
 Maria Sibylla Merian
 Daniel Merriam
+Antonello da Messina
 Jean Metzinger
 Joshua Middleton
 Mike Mignola
@@ -470,6 +543,7 @@ Chris Moore
 Dan Mora
 Thomas Moran
 Giorgio Morandi
+Gustave Moreau
 Henry Moret
 Berthe Morisot
 Hishikawa Moronobu
@@ -483,18 +557,22 @@ Olly Moss
 Alfons Mucha
 Craig Mullins
 Dan Mumford
+Bruno Munari
 Edvard Munch
 Will Murai
 Takashi Murakami
 Yusuke Murata
 Hiroshi Nagai
+Kazumasa Nagai
 Patrick Nagel
 Scott Naismith
 Ted Nasmith
+Alexander Nasmyth
 Alice Neel
 Keith Negley
 Kadir Nelson
 R. Kenton Nelson
+Odd Nerdrum
 Jane Newland
 Victo Ngai
 Dustin Nguyen
@@ -502,9 +580,11 @@ Kay Nielsen
 Tsutomu Nihei
 Yasushi Nirasawa
 Victor Nizovtsev
+Catherine Nolin
 Earl Norem
 Marianne North
 Thornton Oakley
+Chris Ofili
 Eiko Ojala
 Atelier Olschinsky
 Oleg Oprisco
@@ -513,42 +593,61 @@ Shohei Otomo
 Siya Oum
 Georgia O\u2019Keeffe
 P.A. Works
+Gary Panter
 Eduardo Paolozzi
 Gerald Parel
+Parmigianino
 Maxfield Parrish
+Ed Paschke
 Bob Peak
 Clara Peeters
+Guo Pei
 Bruce Pennington
 John Perceval
 Nikolina Petolas
 Coles Phillips
 Sean Phillips
+Francis Picabia
 Gabriel Picolo
 Anton Pieck
 Jerry Pinkney
 Maximilian Pirner
 Jackson Pollock
+Jacopo Pontormo
 Paul Pope
 Fairfield Porter
+Candido Portinari
 Simon Prades
 Gediminas Pranckevicius
+Hugo Pratt
 Theo Prins
+Dod Procter
+Ernest Procter
 Alice Provensen
 Steve Purcell
 Leo Putz
+Frank Quitely
 Arthur Rackham
+Henry Raleigh
+Humberto Ramos
 Paul Rand
 Raphael
 Jakub Rebelka
 Odilon Redon
 Anne Redpath
 Lotte Reiniger
+Rembrandt
 Andrey Remnev
+Pierre-Auguste Renoir
 Ilya Repin
 Zac Retz
 rhads
 Louis Rhead
 Matt Rhodes
+Hyacinthe Rigaud
+Jovana Rikalo
+Faith Ringgold
+Jean-Paul Riopelle
 Diego Rivera
 Trina Robbins
 Albert Robida
@@ -560,9 +659,11 @@ Cyril Rolando
 Conrad Roset
 Alex Ross
 Jessica Rossier
+Mark Rothko
 Henri Rousseau
 Paolo Roversi
 Joao Ruas
+Peter Paul Rubens
 Greg Rutkowski
 Rachel Ruysch
 Mark Ryden
@@ -582,18 +683,25 @@ Andrea del Sarto
 Martiros Saryan
 Alexei Savrasov
 Richard Scarry
+Godfried Schalcken
 Thomas W Schaller
 Paula Scher
 Helene Schjerfbeck
+Martin Schoeller
+John Schoenherr
+Alex Schomburg
 Martin Schongauer
 Otto Marseus van Schrieck
 Francois Schuiten
 Carlos Schwabe
+Kurt Schwitters
 Susan Seddon Boulet
 Guillaume Seignac
+Anton Semenov
 Georges Seurat
 Marie Severin
 Alberto Seveso
+Brooke Shaden
 Barclay Shaw
 E. H. Shepard
 Cynthia Sheppard
@@ -612,6 +720,7 @@ Marc Simonetti
 David Alfaro Siqueiros
 Kevin Sloan
 Grace Cossington Smith
+Austin Osman Spare
 Sparth
 Chuck Sperry
 Sam Spratt
@@ -619,6 +728,7 @@ Ralph Steadman
 Brian Stelfreeze
 Alfred Stieglitz
 James Stokoe
+Arthur Streeton
 Drew Struzan
 Tomasz Strzalkowski
 Simon Stalenhag
@@ -629,6 +739,7 @@ Peter de Seve
 Hiroyuki-Mitsume Takahashi
 Kazuya Takahashi
 Rumiko Takahashi
+Rufino Tamayo
 Shaun Tan
 Henry Ossawa Tanner
 Genndy Tartakovsky
@@ -641,12 +752,15 @@ Howard Terpning
 Osamu Tezuka
 Abbott Handerson Thayer
 Karel Thole
+Mickalene Thomas
 Craig Thompson
 Tom Thomson
 Giovanni Tiepolo
 Alex Timmermans, wet plate
+Titian
 Adrian Tomine
 Ori Toor
+Akira Toriyama
 Alex Toth
 Henri de Toulouse-Lautrec
 Ross Tran
@@ -659,16 +773,24 @@ Daniela Uhlig
 Halil Ural
 Jan Urschel
 Boris Vallejo
+Vincent van Gogh
 Alberto Vargas
 Brian K. Vaughan
+Diego Vel\u00e1zquez
 Vasily Vereshchagin
 Andrea del Verrocchio
+Andreas Vesalius
 Charles Vess
+\u00c9lisabeth Vig\u00e9e-Lebrun
 Louis Wain
 Camille Walala
 Alfons Walde
 Alfred Wallis
+Lynd Ward
 Andy Warhol
+John William Waterhouse
+Jean-Antoine Watteau
+Joe Webb
 Edwin Lord Weeks
 Johan Hendrik Weissenbruch
 Casey Weldon
@@ -690,16 +812,21 @@ Ashley Wood
 Grant Wood
 Zao Wou-Ki
 Bernie Wrightson, bw, high contrast
+Andrew Wyeth
 Zhelong Xu
 Hannah Yata
 Liu Ye
+Bunny Yeager
 Jacek Yerka
+Tadanori Yokoo
+Sean Yoro
 Akihiko Yoshida
 Hiroshi Yoshida
 Skottie Young
 Darek Zabrocki
 Ossip Zadkine
 Eytan Zana
+Eric Zener
 Fenghua Zhong
 William Zorach
 Anders Zorn
