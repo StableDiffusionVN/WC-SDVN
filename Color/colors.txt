@@ -50,7 +50,6 @@ Pearlescent
 Acid colors
 Alabaster
 Amaranth
-cheetah print
 cherry blossom pink
 contrasting colors
 copper
@@ -97,6 +96,3 @@ fluorescent orange
 fluorescent pink
 fluorescent purple
 fluorescent yellow
-leopard print
-tiger print
-zebra print
