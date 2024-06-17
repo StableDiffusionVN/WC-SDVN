@@ -1,75 +1,75 @@
-looking up
-looking down
-looking towards camera
-looking away from camera
-looking to the side
-Looking over the shoulder
-Sitting
-Standing
-Jumping
-Dancing
-Laying down
-Hands behind head
-Hands above the head
-Hands on face
-Resting on a diagonal
-Sitting with elbows on knees
-Kneeling
-Facing forward
-Sitting with hands around ankles
-sitting with back arched
-Standing with hand on hip
-Leaning forward
-Leaning back
-Movement pose
-JoJo pose
-Battle pose
-Crossed legs
-Sitting with crossed legs
-Hands Up Pose
-Feminine Pose
-Masculine Pose
-Playing with Hair
-Strolling pose
-One Leg Up pose
-Crossed arms
-Hands in Pockets
-Thoughtful Pose
-One Hand in Pocket
-Dynamic pose
-Look into the Distance
-Making funny face
-Twirl pose
-Action pose
-Sexy pose
-giving you the finger
-Pointing at you
-Crouching down
-Vivacious pose
-Bending forward
-Bending backwards
-Kung fu pose
-Muscle pose
-Yoga pose
-Stretching pose
-Casting magic pose
-Hero pose
-Adventure pose
-S-shape pose
-vogue pose
-glamour pose
-fashion modeling pose
-relaxing pose
-sleeping pose
-Contrapposto
-Tilted head
-Action scene
-Fluid movement
-Smoking pose
-Meditation pose
-perched on a cloud
+action pose
+action scene
+adventure pose
+battle pose
+bending backwards
+bending forward
 captivating pose
+casting magic pose
 confident stance
-royal pose
+contrapposto
+crossed arms
+crossed legs
+crouching down
+dancing
+dynamic pose
+facing forward
+fashion modeling pose
+feminine pose
+fluid movement
 frolicking in a -minilocation-
+giving you the finger
+glamour pose
+hands above the head
+hands behind head
+hands in pockets
+hands on face
+hands up pose
+hero pose
+jojo pose
+jumping
+kneeling
+kung fu pose
+laying down
+leaning back
+leaning forward
+look into the distance
+looking away from camera
+looking down
+looking over the shoulder
+looking to the side
+looking towards camera
+looking up
+making funny face
+masculine pose
+meditation pose
+movement pose
+muscle pose
+one hand in pocket
+one leg up pose
+perched on a cloud
+playing with hair
 pointe pose
+pointing at you
+relaxing pose
+resting on a diagonal
+royal pose
+s-shape pose
+sexy pose
+sitting
+sitting with back arched
+sitting with crossed legs
+sitting with elbows on knees
+sitting with hands around ankles
+sleeping pose
+smoking pose
+standing
+standing with hand on hip
+stretching pose
+strolling pose
+thoughtful pose
+tilted head
+twirl pose
+vivacious pose
+vogue pose
+yoga pose

@@ -1,0 +1,50 @@
+T-shirt
+Blouse
+Tank top
+Sweater
+Cardigan
+Hoodie
+Jacket
+Coat
+Blazer
+Dress
+Skirt
+Shorts
+Jeans
+Trousers
+Leggings
+Jumpsuit
+Romper
+Bodysuit
+Swimwear
+Bikini
+One-piece swimsuit
+Sarong
+Cover-up
+Kimono
+Robe
+Maxi dress
+Midi dress
+Mini dress
+Shift dress
+Wrap dress
+A-line dress
+Sheath dress
+Peplum dress
+Ball gown
+Cocktail dress
+Evening gown
+Wedding dress
+Bridal gown
+Crop top
+Camisole
+Cami dress
+Tunic
+Polo shirt
+Button-down shirt
+Turtleneck
+Halter top
+Peplum top
+Crop sweater
+Kimono sleeve top
+Off-the-shoulder top

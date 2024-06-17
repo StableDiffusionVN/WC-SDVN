@@ -1,10 +1,10 @@
-A-line dress
-Maxi dress
-Sheath dress
-Shift dress
-Wrap dress
-Off-the-shoulder dress
-Bodycon dress
-High-low dress
-Shirt dress
-Ballgown
+a-line dress
+ballgown
+bodycon dress
+high-low dress
+maxi dress
+off-the-shoulder dress
+sheath dress
+shift dress
+shirt dress
+wrap dress

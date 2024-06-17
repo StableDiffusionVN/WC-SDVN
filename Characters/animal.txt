@@ -1,0 +1,91 @@
+albatross
+ant
+antelope
+armadillo
+atlantic salmon
+barracuda
+bat
+bee
+beetle
+beluga whale
+black panda
+blue whale
+brown bear
+butterfly
+camel
+carp
+cat
+chimpanzee
+clam
+crocodile
+cuttlefish
+deer
+desert tortoise
+dog
+dolphin
+duck
+eagle
+eel
+elephant
+emperor penguin
+fennec fox
+firefly
+fish
+flame robin
+flamingo
+fox
+frog
+gazelle
+ghost shark
+giant panda
+giraffe
+gorilla
+hippopotamus
+horse
+jellyfish
+king cobra
+koala
+leopard
+lion
+lobster
+manatee
+monkey
+moth
+mouse
+narwhal
+octopus
+orangutan
+orca
+ostrich
+pelican
+penguin
+platypus
+polar bear
+praying mantis
+puffin
+rabbit
+rattlesnake
+red panda
+reptile
+rhinoceros
+salmon
+sea lion
+sea otter
+sea turtle
+seagull
+seahorse
+seal
+shark
+shrimp
+snake
+sperm whale
+squirrel
+starfish
+swordfish
+tiger
+tree frog
+tuna
+vulture
+walrus
+whale
+zebra

@@ -1,0 +1,47 @@
+accountant
+actor
+aircraft technician
+animator
+architect
+auditor
+banker
+chef
+computer technician
+construction project manager
+construction worker
+craftsman
+diver
+doctor
+electrician
+electronics technician
+engineer
+film producer
+financial analyst
+graphic designer
+hairdresser
+hr manager
+journalist
+lawyer
+machinist
+marine infantry
+marketing specialist
+mechanic
+model maker
+nurse
+painter
+performer
+pharmacist
+photographer
+plumber
+poet
+police officer
+politician
+production line worker
+programmer
+project manager
+restaurant manager
+scientist
+tailor
+teacher
+welder
+writer

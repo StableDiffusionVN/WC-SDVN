@@ -1,223 +1,195 @@
-Japanese
-Chinese
-Korean
-Vietnamese
-Thai
-Indonesian
-Indian
-Pakistani
-Bangladeshi
-Sri Lankan
-Nepalese
-Iranian
-Iraqi
-Syrian
-Lebanese
-Israeli
-Palestinian
-Turkish
-Greek
-Italian
-French
-German
-British
-Irish
-Scottish
-Welsh
-Russian
-Ukrainian
-Belarusian
-Polish
-Czech
-Slovak
-Hungarian
-Romanian
-Bulgarian
-Serbian
-Croatian
-Bosnian
-Albanian
-Macedonian
-Egyptian
-Moroccan
-Algerian
-Tunisian
-Libyan
-Nigerian
-Ghanaian
-Cameroonian
-Senegalese
-Malian
-Ivorian
-Congolese
-South African
-Ethiopian
-Somali
-Sudanese
-Kenyan
-Tanzanian
-Ugandan
-Rwandan
-Burundian
-American
-Canadian
-Mexican
-Brazilian
-Argentinian
-Chilean
-Peruvian
-Colombian
-Venezuelan
-Ecuadorian
-Costa Rican
-Salvadoran
-Guatemalan
-Honduran
-Panamanian
-Cuban
-Puerto Rican
-Dominican
-Haitian
-Jamaican
-Scandinavian
-Bahamian
-Australian
-New Zealander
-Fijian
-Samoan
-Dutch
-Marshallese
-Palauan
-Micronesian
-Taiwanese
-Hong Konger
-Macanese
-Singaporean
-Malaysian
-Thai Chinese
-Filipino
-Oriental
-European
-South-American
-Asian
-Eastern
-Western
-Persian
-Soviet
-Meiji Era
-Taishō Era
-Shōwa Era
-Heisei Era
-Reiwa Era
-Qin Dynasty
-Han Dynasty
-Tang Dynasty
-Song Dynasty
-Yuan Dynasty
-Ming Dynasty
-Qing Dynasty
-Edo Period
-Golden Age
-Moorish
-Shinto
-Norse
-Art Deco
-Baroque
-Bauhaus
-Byzantine
-Chinoiserie
-Classical
-Contemporary
-Art Nouveau
-Gothic
-High-Tech
-Industrial
-Artisanal
-Modern
-Nautical
-Tudor
-Victorian
-Viking
-Bohemian
-Mediterranean
-Traditional
-Urban
-Vintage
-Cottagecore
-Cyberpunk
-Empire
-Sci-fi
-Folk
-Futuristic
-Georgian
-Greco-Roman
-Inca
-Islamic
-Mayan
-Goth
-Emo
-Mughal
-Prehistoric
-Art Nouveau
-Belle Époque
-Space Age
-Disco Era
-New Wave
-Grunge
-Hip-Hop
-Techno
-Hellenistic
-Roman
-Medieval
-Georgian
-Regency
-Atomic Age
-Digital Age
-Baroque
-Pirate
-Dark ages
-Burlesque
-Venetian
-Samurai
-Maori
-Zulu
-Inuit
-Cossack
-Berber
-Bedouin
-Aborigine
-Celtic
-Aztec
-Roma
-Gypsy
-Mongolian
-Tibetan
-Amish
-Gaelic
-Bantu
-Papuan
-Mennonite
-Basque
-Hmong
-Basque
-Catalan
-Bavarian
-Swiss
-Flemish
-Prussian
-Sardinian
-Corsican
-Sami
-Masai
-Ashkenazi
-Sephardic
-Tribal
-Archean
-Lovecraftian
-wabi-sabi
-Neo-Tokyo
-Elvish
-Dwarven
-Peasant
-hip-hop
-Urban
+afghanistan
+albania
+algeria
+andorra
+angola
+antigua and barbuda
+argentina
+armenia
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+bosnia and herzegovina
+botswana
+brazil
+brunei
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+central african republic
+chad
+chile
+china
+colombia
+comoros
+congo (brazzaville)
+congo (kinshasa)
+costa rica
+croatia
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+grenada
+guatemala
+guinea
+guinea-bissau
+guyana
+haiti
+honduras
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+ivory coast
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kiribati
+korea, north
+korea, south
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+new zealand
+nicaragua
+niger
+nigeria
+north macedonia
+norway
+oman
+pakistan
+palau
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+qatar
+romania
+russia
+rwanda
+saint kitts and nevis
+saint lucia
+saint vincent and the grenadines
+samoa
+san marino
+sao tome and principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south sudan
+spain
+sri lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tonga
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vanuatu
+vatican city
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe

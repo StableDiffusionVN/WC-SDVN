@@ -1,100 +1,95 @@
-Harry Potter
-Superman
-Batman
-Spider-Man
-Darth Vader
-Luke Skywalker
-Frodo Baggins
-Gandalf
-Wonder Woman
-Iron Man
-Captain America
-Hulk
-Thor
-Wolverine
-Sherlock Holmes
-James Bond
-Doctor Who
-Hermione Granger
-Katniss Everdeen
-Jon Snow
-Elsa
-Mickey Mouse
-Simba
-Winnie the Pooh
-Ariel
-Cinderella
-Aladdin
-Peter Pan
-Mulan
-Pocahontas
-Rapunzel
-Sleeping Beauty
-Belle
-Maleficent
-Voldemort
-The Joker
-Black Widow
-Wonder Woman
-Captain Marvel
-Aquaman
-Black Panther
-Iron Fist
-Daredevil
-The Flash
-Green Lantern
-Catwoman
-Lara Croft
-Neo \(The Matrix\)
-Alice \(Alice in Wonderland\)
-Frozone
-Mr. Incredible
-Jack Sparrow
-Edward Scissorhands
-The Mad Hatter
-Willy Wonka
-Dorothy Gale
-Hermione Granger
-Ron Weasley
-Severus Snape
-Hagrid
-Dumbledore
-Legolas
-Aragorn
-Frodo Baggins
-Samwise Gamgee
-Bilbo Baggins
-Smaug
-Tinker Bell
-Captain Hook
-Maleficent
-Beast \(Beauty and the Beast\)
-Shrek
-Fiona \(Shrek\)
-Donkey \(Shrek\)
-Princess Leia
-Yoda
-R2-D2
-C-3PO
-Chewbacca
-Han Solo
-Rey
-Kylo Ren
-Optimus Prime
-Megatron
-Bumblebee
-Sonic the Hedgehog
-Pikachu
-Mario
-Luigi
-Princess Peach
-Bowser
-Link \(Legend of Zelda\)
-Zelda \(Legend of Zelda\)
-Samus Aran \(Metroid\)
-Donkey Kong
-Master Chief \(Halo\)
-Lara Croft
-Kratos \(God of War\)
-Ezio Auditore \(Assassin's Creed\)
-Geralt of Rivia \(The Witcher\)
+aladdin
+alice \(alice in wonderland\)
+aquaman
+aragorn
+ariel
+batman
+beast \(beauty and the beast\)
+belle
+bilbo baggins
+black panther
+black widow
+bowser
+bumblebee
+c-3po
+captain america
+captain hook
+captain marvel
+catwoman
+chewbacca
+cinderella
+daredevil
+darth vader
+doctor who
+donkey \(shrek\)
+donkey kong
+dorothy gale
+dumbledore
+edward scissorhands
+elsa
+ezio auditore \(assassin's creed\)
+fiona \(shrek\)
+frodo baggins
+frozone
+gandalf
+geralt of rivia \(the witcher\)
+green lantern
+hagrid
+han solo
+harry potter
+hermione granger
+hulk
+iron fist
+iron man
+jack sparrow
+james bond
+jon snow
+katniss everdeen
+kratos \(god of war\)
+kylo ren
+lara croft
+legolas
+link \(legend of zelda\)
+luigi
+luke skywalker
+maleficent
+mario
+master chief \(halo\)
+megatron
+mickey mouse
+mr. incredible
+mulan
+neo \(the matrix\)
+optimus prime
+peter pan
+pikachu
+pocahontas
+princess leia
+princess peach
+r2-d2
+rapunzel
+rey
+ron weasley
+samus aran \(metroid\)
+samwise gamgee
+severus snape
+sherlock holmes
+shrek
+simba
+sleeping beauty
+smaug
+sonic the hedgehog
+spider-man
+superman
+the flash
+the joker
+the mad hatter
+thor
+tinker bell
+voldemort
+willy wonka
+winnie the pooh
+wolverine
+wonder woman
+yoda
+zelda \(legend of zelda\)

@@ -1,50 +1,50 @@
-Superman
-Spider-Man
-Batman
-Wonder Woman
-Wolverine
-Iron Man
-Captain America
-The Hulk
-Thor
-The Flash
-Green Lantern
-Daredevil
-Aquaman
-Black Widow
-Doctor Strange
-Cyclops
-Jean Grey
-Storm
-Nightcrawler
-Beast
-Colossus
-Shadowcat \(Kitty Pryde\)
-Rogue
-Gambit
-Deadpool
-Silver Surfer
-Punisher
-Blade
-Ghost Rider
-Spawn
-Hellboy
-Martian Manhunter
-Green Arrow
-Atom
-Blue Beetle
-Booster Gold
-Plastic Man
-The Spirit
-The Rocketeer
-The Tick
-Hellblazer \(John Constantine\)
-The Phantom
-Zorro
-The Shadow
-The Lone Ranger
-Dick Tracy
-The Rocketeer
-The Crow
-V for Vendetta
-The Mask
+aquaman
+atom
+batman
+beast
+black widow
+blade
+blue beetle
+booster gold
+captain america
+colossus
+cyclops
+daredevil
+deadpool
+dick tracy
+doctor strange
+gambit
+ghost rider
+green arrow
+green lantern
+hellblazer \(john constantine\)
+hellboy
+iron man
+jean grey
+martian manhunter
+nightcrawler
+plastic man
+punisher
+rogue
+shadowcat \(kitty pryde\)
+silver surfer
+spawn
+spider-man
+storm
+superman
+the crow
+the flash
+the hulk
+the lone ranger
+the mask
+the phantom
+the rocketeer
+the rocketeer
+the shadow
+the spirit
+the tick
+thor
+v for vendetta
+wolverine
+wonder woman
+zorro

@@ -1,159 +1,159 @@
-Running
-Swimming
-Dancing
-Painting
-Singing
-Writing
-Cooking
-Gardening
-Reading
-Playing sports
-Hiking
-Camping
-Fishing
-Hunting
-Playing music
-Photography
-Sculpting
-Knitting
-Sewing
-Quilting
-Woodworking
-Playing video games
-Watching movies
-Watching TV shows
-Playing board games
-Playing card games
-Playing chess
-Playing poker
-Playing trivia games
-Playing word games
-Doing puzzles
-Collecting stamps
-Collecting coins
-Collecting art
-Collecting antiques
-Reading
-Writing
-Drawing
-Painting
-Singing
-Dancing
-Acting
-Cooking
-Baking
-Sewing
-Knitting
-Embroidery
-Quilting
-Woodworking
-Metalworking
-Pottery
-Glassblowing
-Sculpting
-Playing a musical instrument
-Composing music
-Producing music
-DJing
-Singing in a choir
-Playing in a band
-Playing in an orchestra
-Writing poetry
-Writing fiction
-Writing non-fiction
-Writing screenplays
-Writing articles
-Blogging
-Vlogging
-Podcasting
-Public speaking
-Stand-up comedy
-Improvisational comedy
-Acting in a play
-Acting in a movie
-Acting in a TV show
-Directing a play
-Directing a movie
-Directing a TV show
-Producing a play
-Producing a movie
-Producing a TV show
-Conducting an orchestra
-Teaching
-Coaching
-Mentoring
-Tutoring
-Volunteering
-Fundraising
-Campaigning for a cause
-Activism
-Participating in a protest
-Gardening
-Landscaping
-Home improvement
-Cleaning
-Organizing
-Planning events
-Hosting parties
-Attending concerts
-Attending festivals
-Attending theater performances
-Attending movies
-Attending sports events
-Playing sports
-Exercising
-Yoga
-Pilates
-Tai chi
-Meditation
-Going to the gym
-Running
-Walking
-Hiking
-Camping
-Fishing
-Hunting
-Horseback riding
-Cycling
-Mountain biking
-Skiing
-Snowboarding
-Surfing
-Swimming
-Scuba diving
-Snorkeling
-Kayaking
-Canoeing
-Rafting
-Climbing
-Bungee jumping
-Skydiving
-Paragliding
-Hang gliding
-Zip lining
-Traveling
-Exploring new places
-Playing tennis
-Playing Basketball
-Playing Soccer
-Playing Football
-Playing Golf
-Playing Baseball
-Playing Hockey
-Playing Icehockey
-Boxing
-Wrestling
-Doing Martial Arts
-Diving
-Gymnastics
-Playing Volleyball
-Cycling
-Surfing
-Skateboarding
-Snowboarding
-Skiing
-Figure Skating
-Horse riding
-Rowing
-Sailing
-Triathlon
+acting
+acting in a movie
+acting in a play
+acting in a tv show
+activism
+attending concerts
+attending festivals
+attending movies
+attending sports events
+attending theater performances
+baking
+blogging
+boxing
+bungee jumping
+campaigning for a cause
+camping
+camping
+canoeing
+cleaning
+climbing
+coaching
+collecting antiques
+collecting art
+collecting coins
+collecting stamps
+composing music
+conducting an orchestra
+cooking
+cooking
+cycling
+cycling
+dancing
+dancing
+directing a movie
+directing a play
+directing a tv show
+diving
+djing
+doing martial arts
+doing puzzles
+drawing
+embroidery
+exercising
+exploring new places
+figure skating
+fishing
+fishing
+fundraising
+gardening
+gardening
+glassblowing
+going to the gym
+gymnastics
+hang gliding
+hiking
+hiking
+home improvement
+horse riding
+horseback riding
+hosting parties
+hunting
+hunting
+improvisational comedy
+kayaking
+knitting
+knitting
+landscaping
+meditation
+mentoring
+metalworking
+mountain biking
+organizing
+painting
+painting
+paragliding
+participating in a protest
+photography
+pilates
+planning events
+playing a musical instrument
+playing baseball
+playing basketball
+playing board games
+playing card games
+playing chess
+playing football
+playing golf
+playing hockey
+playing icehockey
+playing in a band
+playing in an orchestra
+playing music
+playing poker
+playing soccer
+playing sports
+playing sports
+playing tennis
+playing trivia games
+playing video games
+playing volleyball
+playing word games
+podcasting
+pottery
+producing a movie
+producing a play
+producing a tv show
+producing music
+public speaking
+quilting
+quilting
+rafting
+reading
+reading
+rowing
+running
+running
+sailing
+scuba diving
+sculpting
+sculpting
+sewing
+sewing
+singing
+singing
+singing in a choir
+skateboarding
+skiing
+skiing
+skydiving
+snorkeling
+snowboarding
+snowboarding
+stand-up comedy
+surfing
+surfing
+swimming
+swimming
+tai chi
+teaching
+traveling
+triathlon
+tutoring
+vlogging
+volunteering
+walking
+watching movies
+watching tv shows
+woodworking
+woodworking
+wrestling
+writing
+writing
+writing articles
+writing fiction
+writing non-fiction
+writing poetry
+writing screenplays
+yoga
+zip lining

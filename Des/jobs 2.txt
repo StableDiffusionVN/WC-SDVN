@@ -1,0 +1,76 @@
+actor
+actress
+alchemist
+artist painter
+astronaut
+athlete
+bartender
+bodyguard
+burglar
+butler
+cashier
+chef
+chemist
+conductor
+construction worker
+croupier
+cyclist
+dentist
+dj
+doctor
+dominatrix
+driver
+engineer
+farmer
+firefighter
+flight attendant
+florist
+geisha
+guard
+hacker
+hikikomori
+idol
+janitor
+judge
+librarian
+lifeguard
+lumberjack
+maid
+mechanic
+merchant
+miko
+miner
+monk
+musician
+ninja
+nun
+nurse
+office lady
+officer
+pilot
+police
+politician
+priest
+prisoner
+prostitution
+sailor
+salaryman
+samurai
+school nurse
+scientist
+shepherd
+slave
+soldier
+spy
+standard-bearer
+stripper
+teacher
+terrorist
+train attendant
+train conductor
+trucker
+waiter
+waitress
+warrior
+witch
+wizard

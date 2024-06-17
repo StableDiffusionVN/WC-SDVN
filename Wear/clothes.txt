@@ -268,7 +268,6 @@ harem outfit
 hat
 hauberk
 Hawaiian shirt
-hawaiian shirt
 hazmat suit
 headband
 headdress
@@ -585,7 +584,6 @@ swim briefs
 swimming trunks
 swimsuit
 T-shirt
-t-shirt
 tabard
 tabi
 tailcoat

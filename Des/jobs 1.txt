@@ -1,0 +1,330 @@
+abbot
+abjurer
+activist
+actor
+adventurer
+air traffic controller
+alchemist
+anthropologist
+apothecary
+arcane trickster
+arcanist
+archeologist
+architect
+archmage
+artist
+assassin
+astronaut
+astronomer
+athlete
+author
+baker
+barbarian
+barber
+bard
+baron
+baroness
+base jumper
+beast tamer
+beastmaster
+biologist
+bishop
+blacksmith
+bladesinger
+blood mage
+bookbinder
+botanist
+bounty hunter
+brewer
+brigadier general
+businessperson
+butcher
+calligrapher
+canon
+captain
+cardinal
+carpenter
+cartographer
+celestial
+ceo
+chancellor
+chaos mage
+chaplain
+chef
+chemist
+chronicler
+chronomancer
+clerk
+clockmaker
+colonel
+command sergeant major
+confessor
+construction worker
+cook
+cooper
+corporal
+costume designer
+count
+countess
+court jester
+cowboy
+cowgirl
+crusader
+cryptographer
+curate
+dance teacher
+dancer
+dark knight
+deacon
+death knight
+demon hunter
+designer
+detective
+diplomat
+dj
+dockworker
+doctor
+dragon knight
+dragon rider
+dragon slayer
+dreamweaver
+druid
+duchess
+duke
+ecologist
+economist
+elder
+elemental mage
+elementalist
+emergency medical technician
+enchanter
+enforcer
+engineer
+entomologist
+entrepreneur
+environmentalist
+executioner
+exorcist
+explorer
+falconer
+farmer
+farrier
+fashion designer
+filmmaker
+financial analyst
+fire mage
+firefighter
+first lieutenant
+first sergeant
+fisherman
+footman
+friar
+frost mage
+gallery owner
+gardener
+geisha
+general
+geographer
+geologist
+geomancer
+ghost hunter
+gladiator
+glassblower
+goldsmith
+grave robber
+groom
+guardian
+gunner
+gunnery sergeant
+harbinger
+harpist
+healer
+herald
+herbalist
+historian
+humanitarian
+hunter
+ice queen/king
+idol
+illusionist
+illustrator
+imƒÅm
+innkeeper
+inquisitor
+interior designer
+investigator
+jester
+jeweler
+journalist
+judge
+king
+knight
+knight errant
+lady
+lady-in-waiting
+lance corporal
+lancer
+landscape architect
+lawyer
+leatherworker
+lector
+legal assistant
+librarian
+lieutenant colonel
+lord
+loremaster
+lumberjack
+mage
+mage slayer
+major
+makeup artist
+marketer
+marshal
+mason
+master sergeant
+mathematician
+mercenary
+miller
+mind reader
+miner
+missionary
+monk
+mountaineer
+museum curator
+music critic
+music journalist
+music producer
+music teacher
+musician
+mystic
+necromancer
+necrophage
+nobleman
+notary
+nuncio
+oracle
+ornithologist
+page
+painter
+paladin
+paleontologist
+papal legate
+paralegal
+paramedic
+pastor
+personal trainer
+phantom
+philosopher
+photographer
+physician
+physicist
+pilgrim
+pilot
+pirate
+playwright
+police officer
+politician
+pop singer
+potter
+president
+priest
+printer
+private
+private first class
+private investigator
+professor
+programmer
+psychologist
+queen
+rabbi
+race car driver
+ranger
+record label executive
+reverend
+rock climber
+rogue
+royalty
+rune mage
+sailor
+salesperson
+samurai
+scientist
+scribe
+scuba diver
+sculptor
+second lieutenant
+sentinel
+sergeant
+sergeant major
+sergeant major of the army
+set designer
+shadow assassin
+shadowmage
+shepherd
+ship captain
+shipbuilder
+shoemaker
+siege engineer
+silk weaver
+singer
+sister
+skydiver
+sociologist
+soldier
+sorcerer
+soul reaver
+sound engineer
+spellblade
+spice merchant
+spinner
+spy
+stablehand
+staff sergeant
+star mage
+sultan
+summoner
+surfer
+surgeon
+surveyor
+swashbuckler
+sword bearer
+tailor
+tanner
+tax collector
+teacher
+technomancer
+templar
+theater director
+theologian
+theurge
+thunderer
+time traveler
+titan
+town crier
+trader
+train conductor
+translator
+traveler
+trickster
+troubadour
+valet
+valkyrie
+vampire hunter
+veterinarian
+vicar
+vintner
+vizier
+warden
+warlock
+warlord
+watchmaker
+weaponsmith
+weaver
+windcaller
+witch
+witch hunter
+woodcarver
+writer
+yoga instructor
+yogi
+zoologist
